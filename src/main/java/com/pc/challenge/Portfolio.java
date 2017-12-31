@@ -1,4 +1,4 @@
-package com.pc.challange;
+package com.pc.challenge;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

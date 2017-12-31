@@ -1,4 +1,4 @@
-package com.pc.challange;
+package com.pc.challenge;
 
 import java.util.ArrayList;
 import java.util.List;
